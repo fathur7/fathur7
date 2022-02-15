@@ -2,6 +2,13 @@
 
 Perkenalkan nama saya **Fathurrohman Abdul Aziz**.\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fathurrohman-abdul-aziz-80b85b132/)ku ya.
+
+<p align="left">
+<a href="https://github.com/fathur7">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fathur7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fathur7&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **fathur7/fathur7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
