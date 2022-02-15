@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 Perkenalkan nama saya **Fathurrohman Abdul Aziz**.\
-
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fathurrohman-abdul-aziz-80b85b132/)ku ya.
 <!--
 **fathur7/fathur7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
